@@ -17,6 +17,10 @@ There are linked articles and travel blogs that you can visit to have more infor
 __About Us__
 Meet the team! We are a group of 2nd Year Computer Engineering student and we did this website for our final project in Software Development project. 
 
+<h2>🖥️ This project is deployed via Netlify</h2>
+
+__Please visit --->__ [Batanescape](https://batanescape.netlify.app/)
+
 <h2>📫 How to reach me:</h2>
 Hit me up with some suggestions on how can I improve this website
 
